@@ -55,23 +55,3 @@ Chatbot/
 ├── .env                    # Secret API keys (Keep private!)
 └── README.md               # Documentation
 
----
-
-## 🤝 Contributing
-```Plaintext
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/NewNeonStyle)
-
-Commit your Changes (git commit -m 'Add new neon glow')
-
-Push to the Branch (git push origin feature/NewNeonStyle)
-
-Open a Pull Request
-
----
-
-##📄 License
-```Plaintext
-This project is licensed under the MIT License - see the LICENSE file for details.
-Developed by Fahad Connecting Human Intelligence with Neon AI.
