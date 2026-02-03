@@ -57,7 +57,8 @@ Chatbot/
 
 ---
 
-**🤝 Contributing**
+## 🤝 Contributing
+```Plaintext
 Fork the Project
 
 Create your Feature Branch (git checkout -b feature/NewNeonStyle)
@@ -70,6 +71,7 @@ Open a Pull Request
 
 ---
 
-**📄 License**
+##📄 License
+```Plaintext
 This project is licensed under the MIT License - see the LICENSE file for details.
 Developed by Fahad Connecting Human Intelligence with Neon AI.
